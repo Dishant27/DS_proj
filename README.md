@@ -14,3 +14,9 @@
 
 **Scraping Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
+- [x] Chromedriver for Glassdoor scraper
+- [x] Scraped 15 Example DS jobs
+- [ ] Cleaning the Data
+- [ ] Implementing Models
+- [ ] Finding Model accuracies
+
