@@ -179,4 +179,4 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
             break
 
-    return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFra
+    return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas Dataframe
