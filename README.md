@@ -1,7 +1,7 @@
 # Data Science Project Repository
 
 ## 🔍 Overview
-This repository contains various data science projects and experiments. It serves as a collection of exploratory work, analysis, and machine learning implementations.
+This repository contains various data science projects and experiments meant to be a part of personal projects earlier. It is a collection of exploratory work, analysis, and machine learning implementations.
 
 ## 📂 Project Structure
 A detailed breakdown of the repository's contents:
